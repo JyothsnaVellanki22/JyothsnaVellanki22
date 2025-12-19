@@ -39,7 +39,6 @@ A modern full-stack portfolio that includes an integrated Retrieval-Augmented Ge
 ---
 
 ## GitHub Stats
-(Enable these by keeping the username as-is)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JyothsnaVellanki22&layout=compact&theme=github_dark)
 
