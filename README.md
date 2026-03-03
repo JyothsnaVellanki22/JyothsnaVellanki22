@@ -33,7 +33,7 @@ Welcome to my personal portfolio website: a clean, responsive front-end that sho
 
 ### Version 2 — Portfolio & GenAI Chatbot (RAG + Local LLM)  
 A modern full-stack portfolio that includes an integrated Retrieval-Augmented Generation (RAG) chatbot powered by a local LLM.
-- Live site: https://portfolio-v2-eight-beige.vercel.app/  
+- Live site: https://portfolio-v2-portfolio.vercel.app/
 - Description: Combines a React + Vite frontend with a Python/FastAPI backend that runs a full RAG pipeline. Uses ChromaDB for embeddings, PostgreSQL for persistence, and Ollama (local Llama 3.2) for private inference. The chatbot retrieves context from the portfolio and streams answers in real-time.
 - Tech: React (Vite), Vanilla CSS, FastAPI, Python, LangChain, ChromaDB, PostgreSQL, Docker, Ollama
 - Highlights:
